@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kenzaelkhazraj
-- 👀 I’m interested in codng
+- 👀 I’m interested in coding 
 - 🌱 I’m currently learning C/ Python ...
 - 💞️ I’m looking to collaborate on learnig how to code well
 - 📫 How to reach me ...
